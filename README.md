@@ -23,3 +23,9 @@ This project focuses on predicting NBA match outcomes and player point performan
 – Classification (Match Outcome): Logistic Regression, Random Forest, XGBoost, CatBoost, LightGBM, ANN  
 – Regression (Player Points): Random Forest, XGBoost, CatBoost, LightGBM, MLP  
 • Evaluation: Accuracy, Precision, Recall, F1 (classification) | MAE, MSE, R² (regression).  
+
+## Tools & Technologies
+• Programming Language: Python  
+• Libraries: Pandas, Scikit-learn, XGBoost, CatBoost, LightGBM, TensorFlow/Keras  
+• Visualization: Matplotlib, Seaborn  
+• Hyperparameter Tuning: GridSearchCV (with 5-fold cross-validation)  
